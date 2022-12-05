@@ -1,3 +1,5 @@
+## This is an edit by Haley Berger. I will be assiting in the dead ant revival project.
+
 # cs305-mod05
 This is for the module 05 assignment
 
